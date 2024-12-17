@@ -4,7 +4,7 @@ I am a PhD student at the University of Maine. I work in the Quantitative Fisher
 
 
 - 🔭 I’m currently working on an interactive web application for the Marine Resource Education Program (MREP)
-- 🌱 2024 Sea Grant/ NOAA Populaiton Dynamics Fellow
+- 🌱 2024 Sea Grant/ NOAA Population Dynamics Fellow
 - 📫 jerelle.jesse@maine.edu
 - 😄 Pronouns: she/her/hers
 
